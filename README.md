@@ -1,4 +1,4 @@
-# data-engineer-test
+# Teste para Engenheiro de Dados - Indeorum
 
 ## Introdução
 A indeorum iniciou como uma empresa voltada a serviços de data science aplicados a pós-graduação brasileira.
