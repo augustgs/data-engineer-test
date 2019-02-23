@@ -1,7 +1,5 @@
 ## Instalar R + R Studio 3.5.2
-```text
-http://nbcgib.uesc.br/mirrors/cran/
-```
+
 ## Instalar Mysql 8.0
 
 ## Alterar linha ao arquivo my.cnf ou my.ini (depende do SO)
@@ -33,3 +31,7 @@ a partir do arquivo sql_dump.sql
 ```
 
 ## Rodar arquivo teste.r no R Studio
+
+## Considerações Finais
+
+> Modelo DB ER anexo em PDF (ER.pdf)
